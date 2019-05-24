@@ -7,7 +7,7 @@ Introduction
 
 The source.NodeJS project is a collection of various code samples I have written/modified for implementation into private commercial products I develop.
 
-/index.js
+/server.js
 ---------
 Entry point for a sample HTTPS server using express and ECMAScript (babel)
 
