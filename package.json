@@ -1,0 +1,31 @@
+{
+  "name": "source.nodejs",
+  "version": "1.0.0",
+  "description": "Assorted code gems for NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "express": "^4.17.0",
+    "https": "^1.0.0",
+    "node-forge": "^0.8.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/register": "^7.4.4"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian4o5/source.NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brian4o5/source.NodeJS/issues"
+  },
+  "homepage": "https://github.com/brian4o5/source.NodeJS#readme"
+}
